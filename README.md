@@ -2,7 +2,9 @@
 
 Use the Sasona pool from an agent or an app.
 
-> Devnet only. The coin has no value.
+> **This is the first design, built on Solana devnet. It has been superseded and is kept as a record.** Nothing here runs on mainnet, and the network's new contract is not built yet.
+>
+> The SASONA coin is live on Solana mainnet since 20 October 2026, at `8xH5RFEkSyneYBhCZh5gi2svgdyrDCREW9SxCfKuYgFd` only; see [`sasona-coin`](https://github.com/sasona-network/sasona-coin). The devnet coin in this repository is a different token, used only for testing.
 
 ## What it does so far
 
